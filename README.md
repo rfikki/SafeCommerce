@@ -1,4 +1,4 @@
-# safecontracts
+# Safecontracts
 
 SafeContracts: provides any Ethereum account holder as well as any Ethereum contract the ability to use their unique digital keys (address) to interact with the SafeContracts exchange service.
 
